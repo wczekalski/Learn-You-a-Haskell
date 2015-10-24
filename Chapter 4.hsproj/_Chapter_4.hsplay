@@ -1,0 +1,8 @@
+-- Haskell Playground 1.0
+englishDigit 5
+englishDigit 50
+
+divTuple (10, 10)
+
+threeZeroList [5]
+threeZeroList [0, 0, 0, 10]
